@@ -1,1 +1,1 @@
-# laravel_project
+# Laravel Example Project
